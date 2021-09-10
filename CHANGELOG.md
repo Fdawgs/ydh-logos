@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.2.2](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.1...v2.2.2) (2021-09-10)
+
+
+### Miscellaneous
+
+* **.husky/.gitignore:** remove now redundant file ([72a790a](https://www.github.com/Fdawgs/ydh-logos/commit/72a790abd9a3754c8247487d35282aa5f9e3885d))
+* **.prettierrc:** override defaults for html, css, and scss files ([#62](https://www.github.com/Fdawgs/ydh-logos/issues/62)) ([ece0af5](https://www.github.com/Fdawgs/ydh-logos/commit/ece0af55efb0746149eeae77ff63ba6f6429f23a))
+* **.vscode:** add `mhutchie.git-graph` extension ([7a590fa](https://www.github.com/Fdawgs/ydh-logos/commit/7a590fae9a84f67c2822e8226fa19834e5ce3a4d))
+
 ### [2.2.1](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.0...v2.2.1) (2021-09-06)
 
 
